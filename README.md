@@ -19,16 +19,16 @@ A from-scratch quantitative finance project that prices European options using M
 ## Sample output
 
 ### GBM simulated paths
-![GBM Paths](outputs/1_gbm_paths.png)
+![GBM Paths](1_gbm_paths.png)
 
 ### Greeks: MC vs Black-Scholes
-![Greeks](outputs/2_greeks.png)
+![Greeks](2_greeks.png)
 
 ### Put-Call parity verification
-![Put-Call Parity](outputs/3_put_call_parity.png)
+![Put-Call Parity](3_put_call_parity.png)
 
 ### Convergence to Black-Scholes
-![Convergence](outputs/4_convergence.png)
+![Convergence](4_convergence.png)
 
 ---
 
