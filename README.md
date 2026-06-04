@@ -130,16 +130,15 @@ Greeks match Black-Scholes to 4 decimal places. Put-Call parity error < $0.01.
 
 ```
 monte-carlo-options/
-│
-├── monte_carlo_options.py     # main script (all functions + main())
 ├── monte_carlo_options.ipynb  # Jupyter notebook version
 ├── requirements.txt
 ├── README.md
-└── outputs/
-    ├── 1_gbm_paths.png
-    ├── 2_greeks.png
-    ├── 3_put_call_parity.png
-    └── 4_convergence.png
+├── 1_gbm_paths.png
+├── 2_greeks.png
+├── 3_put_call_parity.png
+└── 4_convergence.png
+
+    
 ```
 
 ---
